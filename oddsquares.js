@@ -6,6 +6,4 @@ const squaredNumbers= oddNumbers.map(number => number * number)
 return squaredNumbers;
 
 
-
 }
-console.log(oddSquares([1,3,2,3,4,6,7]))

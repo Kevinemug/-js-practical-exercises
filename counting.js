@@ -9,3 +9,4 @@ const countingZeros = n => {
 
   return count;
 }
+console.log(countingZeros(200))
